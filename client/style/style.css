@@ -1,0 +1,12 @@
+.pointer-cursor {
+    cursor: pointer;
+}
+
+.material-icons {
+    margin-right: 5px;
+}
+
+.vote-box {
+    display: flex;
+    align-items: center;
+}
